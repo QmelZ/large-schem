@@ -1,0 +1,7 @@
+{
+    name: "large-schem",
+    displayName: "Large Schematics",
+    author: "QmelZ",
+    version: 0.1,
+    minGameVersion: 121
+}
