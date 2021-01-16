@@ -11,3 +11,6 @@ this mod will allow you to save bigger schematics
 - the schematic preview will have broken shadows
 - you can save a bigger area than the rectangle outline renders (2147483647 x 2147483647)
 - couldnt make it save the schematic in the schematics menu or as a msch file, so it shows a popup
+
+## Credits
+- [ZestyLemonade](https://github.com/sample-text-here) for letting me use his rectangle selection area code
